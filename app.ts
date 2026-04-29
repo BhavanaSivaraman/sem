@@ -22,4 +22,4 @@ console.log("\nsummary:"+expense[i].getSummary());}
 console.log("\ntotal:"+getTotal(expense));
 
 
-console.log("branch a");
+console.log("branch b");
