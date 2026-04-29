@@ -20,3 +20,6 @@ function getTotal(expense:(BasicExpense | BusinessExpense)[]) : number{
 for(let i=0;i<expense.length;i++){
 console.log("\nsummary:"+expense[i].getSummary());}
 console.log("\ntotal:"+getTotal(expense));
+
+
+console.log("branch a");
